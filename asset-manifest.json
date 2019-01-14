@@ -1,13 +1,13 @@
 {
-  "main.css": "/gilangnrl.github.io/static/css/main.099eb7bc.chunk.css",
-  "main.js": "/gilangnrl.github.io/static/js/main.d6efed81.chunk.js",
-  "main.js.map": "/gilangnrl.github.io/static/js/main.d6efed81.chunk.js.map",
-  "static/js/1.7c38c587.chunk.js": "/gilangnrl.github.io/static/js/1.7c38c587.chunk.js",
-  "static/js/1.7c38c587.chunk.js.map": "/gilangnrl.github.io/static/js/1.7c38c587.chunk.js.map",
-  "runtime~main.js": "/gilangnrl.github.io/static/js/runtime~main.b21f8d6b.js",
-  "runtime~main.js.map": "/gilangnrl.github.io/static/js/runtime~main.b21f8d6b.js.map",
-  "static/css/main.099eb7bc.chunk.css.map": "/gilangnrl.github.io/static/css/main.099eb7bc.chunk.css.map",
-  "index.html": "/gilangnrl.github.io/index.html",
-  "precache-manifest.5397f8d715a09b1f9a8841fdfd000278.js": "/gilangnrl.github.io/precache-manifest.5397f8d715a09b1f9a8841fdfd000278.js",
-  "service-worker.js": "/gilangnrl.github.io/service-worker.js"
+  "main.css": "/another-react/static/css/main.099eb7bc.chunk.css",
+  "main.js": "/another-react/static/js/main.37fd300c.chunk.js",
+  "main.js.map": "/another-react/static/js/main.37fd300c.chunk.js.map",
+  "static/js/1.7c38c587.chunk.js": "/another-react/static/js/1.7c38c587.chunk.js",
+  "static/js/1.7c38c587.chunk.js.map": "/another-react/static/js/1.7c38c587.chunk.js.map",
+  "runtime~main.js": "/another-react/static/js/runtime~main.b2159253.js",
+  "runtime~main.js.map": "/another-react/static/js/runtime~main.b2159253.js.map",
+  "static/css/main.099eb7bc.chunk.css.map": "/another-react/static/css/main.099eb7bc.chunk.css.map",
+  "index.html": "/another-react/index.html",
+  "precache-manifest.128ec52735472e9c2b6a949061407d6b.js": "/another-react/precache-manifest.128ec52735472e9c2b6a949061407d6b.js",
+  "service-worker.js": "/another-react/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gilangnrl.github.io/precache-manifest.5397f8d715a09b1f9a8841fdfd000278.js"
+  "/another-react/precache-manifest.128ec52735472e9c2b6a949061407d6b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gilangnrl.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/another-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
